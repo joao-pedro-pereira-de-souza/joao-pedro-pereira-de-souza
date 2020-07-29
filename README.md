@@ -1,23 +1,15 @@
+# Olá 👋
+O meu nome é João Pedro , comecei a estudar TI no curso Técnico.
+Curso : Desenvolvimento de Sistemas - 🏫 Etec Lauro Gomes.
+## Programações 👨🏻‍💻
+C# - WinForms
+PHP-Conhecimento básico 
+HTML -Conhecimento básico 
+Java -📱 Android (Android Studios)-Conhecimento básico 
+### Banco de dados :
+Mysql
+Firebase
+## Redes
 
-<!--
-**joaopedro29/joaopedro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## João Pedro Pereira de Souza  :blush:
--Cursp Técnico 
--:computer: Desenvolvimento de sistema.
--C# :computer: WinForms
--PHP
--CSS
--java  android :iphone:(android Studios)
+📷-Instagram [ https://www.instagram.com/jppereirass/ ]
+📧-Email [ jppereiradesouza29@gmail.com ]
