@@ -1,12 +1,12 @@
 # Olá 👋
-O meu nome é João Pedro , comecei a estudar TI no curso Técnico.
-Curso : Desenvolvimento de Sistemas - 🏫 Etec Lauro Gomes.
+My name is João Pedro, I started studying IT in the Technical course.
+Course: Systems Development - 🏫 Etec Lauro Gomes.
 ## Programações 👨🏻‍💻
 C# - WinForms
-PHP-Conhecimento básico 
-HTML -Conhecimento básico 
-Java -📱 Android (Android Studios)-Conhecimento básico 
-### Banco de dados :
+PHP-Basic knowledge
+HTML -Basic knowledge
+Java -📱 Android (Android Studios)-Basic knowledge
+### Databases :
 -Mysql
 -Firebase
 ## Redes
