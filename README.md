@@ -1,4 +1,4 @@
-# Olá 👋# Olá 👋
+# Olá 👋
 O meu nome é João Pedro , comecei a estudar TI no curso Técnico.
 Curso : Desenvolvimento de Sistemas - 🏫 Etec Lauro Gomes.
 ## Programações 👨🏻‍💻
