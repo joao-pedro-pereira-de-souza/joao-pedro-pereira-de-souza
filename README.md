@@ -1,15 +1,3 @@
-João Pedro Pereira de Souza :blush:
-iniciante na  programação \n 
-Formações extras curriculares : \n
-Curso Técnic  - :computer: Desenvolvimento de sistemas.
-
-Linguagens  de programação :
-
-C#:computer: WinForms
-PHP
-HTML
-CSS
-java -Android:iphone:(Android Studios)
 
 <!--
 **joaopedro29/joaopedro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## João Pedro Pereira de Souza  :blush:
+-Cursp Técnico 
+-:computer: Desenvolvimento de sistema.
+-C# :computer: WinForms
+-PHP
+-CSS
+-java  android :iphone:(android Studios)
