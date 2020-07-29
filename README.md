@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá 👋# Olá 👋
 O meu nome é João Pedro , comecei a estudar TI no curso Técnico.
 Curso : Desenvolvimento de Sistemas - 🏫 Etec Lauro Gomes.
 ## Programações 👨🏻‍💻
@@ -7,9 +7,9 @@ PHP-Conhecimento básico
 HTML -Conhecimento básico 
 Java -📱 Android (Android Studios)-Conhecimento básico 
 ### Banco de dados :
-Mysql
-Firebase
+-Mysql
+-Firebase
 ## Redes
 
 📷-Instagram [ https://www.instagram.com/jppereirass/ ]
-📧-Email [ jppereiradesouza29@gmail.com ]
+📧-Email[ jppereiradesouza29@gmail.com ]
