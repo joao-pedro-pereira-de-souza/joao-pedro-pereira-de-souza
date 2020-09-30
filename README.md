@@ -28,6 +28,9 @@ Formações 🏆:
 (2) Curso de design para mídias sociais - 1h(https://www.youtube.com/watch?v=aFZoxQNNx7M&pp=QAA%3D),
 
 (3)Curso WordPress - 80h (https://www.cursoemvideo.com/)
+
+(4)Git e GitHub - 20h 80h (https://www.cursoemvideo.com/)
+
 ### certificados:
 
 ❗️❗️ Aviso ... os certificamos estão na pasta "Certificados" no repositório desse Read.
