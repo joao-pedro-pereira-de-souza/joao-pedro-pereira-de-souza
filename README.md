@@ -11,6 +11,8 @@ Course: Systems Development - 🏫 Etec Lauro Gome
 | C# (WinForms) | Advanced |
 | JavaScript | Advanced |
 | Nodejs | Advanced |
+| Docker | Advanced |
+| Nestjs | Intermediary |
 | Java (Android Studios) | Basic |
 | PHP | Basic |
 
