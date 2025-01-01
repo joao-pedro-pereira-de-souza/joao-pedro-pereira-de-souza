@@ -10,25 +10,16 @@ Course: Systems Development - 🏫 Etec Lauro Gome
 | --------------------------------------- | ----------- |
 | C# (WinForms) | Advanced |
 | JavaScript | Advanced |
-| React Native | Advanced |
-| Nodejs | Regular |
+| Nodejs | Advanced |
 | Java (Android Studios) | Basic |
 | PHP | Basic |
-| WordPress | Regular |
-
-
-### Lista de plugins WordPress :
-❗️❗️  lista dos editores de conteúdo ... os plugins básico( segurança , automações no desenvolvimento do site e formulários) não vão ser citados para não poluir a documentação.
-
-Microthemer,
-Gutenberg,
-Astra + astra gutenberg 
-
 
 ### Databases :
 -Mysql
 -Firebase
 -MongoDB
+-Postgresql
+-Redis
 
 Formações 🏆:
 
