@@ -1,5 +1,5 @@
 
-My name is João Pedro (20 years), I started studying IT in the Technical course.
+My name is João Pedro (24 years), I started studying IT in the Technical course.
 Course: Systems Development - 🏫 Etec Lauro Gome
 
 ⏱ 2 years career
@@ -40,6 +40,8 @@ Formações 🏆:
 
 (3)Git e GitHub - 20h 80h (https://www.cursoemvideo.com/)
 
+(4) Testes automatizados (https://cursos.erickwendel.com.br/tajs-vendas?utm_source=instagram&utm_medium=bio)
+
 ### certificados:
 
 ❗️❗️ Aviso ... os certificamos estão na pasta "Certificados" no repositório desse Read.
@@ -47,6 +49,7 @@ Formações 🏆:
 (1) esperando o certificado ser disponibilizado,
 (2) já disponível ,
 (3) pagamento para pegar o certificado.
+(4) já disponível
 
 
 ## Redes
